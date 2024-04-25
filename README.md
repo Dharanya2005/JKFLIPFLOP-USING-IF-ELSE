@@ -63,3 +63,4 @@ DHARANYA.N: RegisterNumber:212223230044
 ![Screenshot 2024-04-25 135818](https://github.com/Dharanya2005/JKFLIPFLOP-USING-IF-ELSE/assets/145742468/425d016e-82c4-4ac8-8e64-74eedd8dd3b9)
 
 **RESULTS**
+Thus the programm executed successfully
